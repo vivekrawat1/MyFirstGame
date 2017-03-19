@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "72e07bac-0cfa-445a-928f-6f01b40b025e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Login-Screen-Background-Wood-5": {
+      "ver": "1.0.3",
+      "uuid": "dd28fc6a-c32b-4367-ada2-102dd68aa6f9",
+      "rawTextureUuid": "72e07bac-0cfa-445a-928f-6f01b40b025e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1536,
+      "height": 864,
+      "rawWidth": 1536,
+      "rawHeight": 864,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
