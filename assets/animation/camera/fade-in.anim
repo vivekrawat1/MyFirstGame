@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fade-in",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.47,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            247,
+            212
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.433333333333333,
+          "value": [
+            251,
+            -209
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.45,
+          "value": [
+            254,
+            -203
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.466666666666667,
+          "value": [
+            254,
+            -203
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.7
+        },
+        {
+          "frame": 2.45,
+          "value": 1
+        }
+      ],
+      "color": [
+        {
+          "frame": 2.4,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          }
+        },
+        {
+          "frame": 2.433333333333333,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 223,
+            "g": 16,
+            "b": 16,
+            "a": 255
+          }
+        },
+        {
+          "frame": 2.466666666666667,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 233,
+            "g": 197,
+            "b": 197,
+            "a": 255
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 2.466666666666667,
+      "func": "",
+      "params": []
+    }
+  ]
+}

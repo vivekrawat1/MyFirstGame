@@ -19,7 +19,11 @@ cc.Class({
         console.log("hi i am here");
         console.log("login bt");
     },
+    onLoginPopUp(){
+        console.log("whatsup");
+        this.node.active = false;
 
+    }
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {
 
